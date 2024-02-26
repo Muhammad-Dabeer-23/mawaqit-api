@@ -3,3 +3,5 @@ env
 __pycache__
 poetry.lock
 pyproject.toml
+config.bat
+node_modules
